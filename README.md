@@ -29,11 +29,11 @@ Total Sales Transactions
 11.Impact of Marital Status on Spending
 
 # Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
 Plotly
 
 # Business Insights
